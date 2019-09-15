@@ -1,0 +1,14 @@
+{
+  "name": "amednones_61611145_tarea9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amed Nones",
+  "license": "ISC",
+  "dependencies": {
+    "server": "^1.0.19"
+  }
+}
